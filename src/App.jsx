@@ -1,7 +1,6 @@
 
 import Head from "./Components/Header/head"
 import Navbar from "./Components/Navbar/Navbar"
-
 import Video from "./Components/Explainer/Explainer"
 import Text from "./Components/text/text"
 import Container from "./Components/card/card"
